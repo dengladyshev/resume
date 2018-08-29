@@ -35,6 +35,6 @@
 ## Навыки
 
 - Swift, Objective-C
-- MVC, MVVM, VIPER
+- MVC, VIPER, MVVM-С
 - HTML, CSS, JavaScript
 - CocoaPods, GitLab CI, Fastlane, Fabric
