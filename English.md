@@ -1,41 +1,46 @@
-# Гладышев Денис Владимирович
+# Denis Gladyshev
 
-## iOS-разработчик
+## iOS developer
 
 - dengladyshev@gmail.com
 - [GitHub](https://github.com/dengladyshev)
 - [LinkedIn](https://www.linkedin.com/in/dengladyshev)
 
-## Опыт
+## Experience
 
-- **2015 - 2018 (3 года): iOS-разработчик, "Центр Высоких Технологий", Ижевск**
+- **2018 - 2020 (1,5 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
 
-	- Заказная iOS-разработка в командах от 2 до 5 человек
-	- Проектирование архитектуры, код-ревью
-	- Организация и участие во внутренних митапах и семинарах
-	- Внедрение CI/CD в команде
-	- Внедрение TDD в команде
+	- Code style guide and [SwiftLint](https://github.com/realm/SwiftLint) integration
+	- DI by [Needle](https://github.com/uber/needle) integration
+	- Modularisation based on [Swift Package Manager](https://swift.org/package-manager/)
+	- Organization of regular meetings to discuss and plan technical improvements in the project
+	- Creation of new features and support old code base
+	- Code reviews
+	- Job interviews
 
-- **2013 - 2015 (2,5 года): ASP.NET-разработчик, "Центр Высоких Технологий", Ижевск**
+- **2015 - 2018 (3 years): iOS developer, [High Technologies Center](https://htc-cs.ru), Izhevsk**
 
-	- Заказная фуллстек разработка веб-проектов в командах от 2 до 4 человек
+	- Design of project architecture, code reviews
+	- Organization and participation of internal tech meetups
+	- CI/CD integration
+	- TDD integration
 
-## Проекты
+- **2013 - 2015 (2,5 years): ASP.NET developer, [High Technologies Center](https://htc-cs.ru), Izhevsk**
 
-- 2018: Director app (NDA) - Приложение для отображения повестки собраний, отчетов и документов для совета директоров.
-- 2017: [CTC](https://itunes.apple.com/ru/app/стс-телеканал-сериалы-онлайн/id784379020) - Приложение телеканала СТС.
-- 2017: [Carpetgram](https://itunes.apple.com/ru/app/carpetgram/id490924653) - Приложение для распознавания силуэта человека на фото и наложения фона-ковра.
-- 2017: [YABT.Talkrooms](https://itunes.apple.com/ru/app/yabt-talkrooms/id1233673360) - Приложение для бронирования переговорок.
-- 2017: Selfie app (NDA) - Приложение для помощи при создании селфи (с распознаванием лица).
-- 2016-2017: Industrial hygiene app (NDA) - Приложение для ввода и отображения данных промышленной гигиены.
-- 2016: SMS sending app (NDA) - Приложение для заказа смс-рассылок.
-- 2016: Women health app (NDA) - Приложение для планирования беременности.
-- 2016: [Workingmama](https://itunes.apple.com/ru/app/workingmama/id758123884) - Приложение-афиша мест для детей.
+## Projects
 
-## Навыки
+- 2018-2020: [Lamoda](https://apps.apple.com/ru/app/lamoda-одежда-и-обувь-онлайн/id777645417) - Online shop app
+- 2017: [CTC](https://itunes.apple.com/ru/app/стс-телеканал-сериалы-онлайн/id784379020) -  TV channel app
+- 2017: [YABT.Talkrooms](https://itunes.apple.com/ru/app/yabt-talkrooms/id1233673360) - Meeting room ordering app
+- 2017: Selfie app (NDA)
+- 2016-2017: Industrial hygiene app (NDA)
+- 2016: SMS sending app (NDA)
+- 2016: Women health app (NDA)
 
-- Swift, Objective-C
+## Skills
+
+- Swift, Objective-C, Python
+- Xcode, Swift Package Manager, CocoaPods, Fastlane
 - MVC, VIPER, MVVM-С
 - HTML, CSS, JavaScript
-- CocoaPods, GitLab CI, Fastlane, Fabric
 
