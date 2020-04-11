@@ -2,5 +2,5 @@
 
 ## iOS developer
 
-- [Resume (english)](https://github.com/dengladyshev/resume/tree/master/English)
-- [Resume (russian)](https://github.com/dengladyshev/resume/tree/master/Russian)
+- [Resume (english)](https://github.com/dengladyshev/resume/tree/master/English.md)
+- [Resume (russian)](https://github.com/dengladyshev/resume/tree/master/Russian.md)
