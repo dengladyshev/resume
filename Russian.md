@@ -6,6 +6,13 @@
 - [GitHub](https://github.com/dengladyshev)
 - [LinkedIn](https://www.linkedin.com/in/dengladyshev)
 
+## Навыки
+
+- Swift, Objective-C, Python
+- Xcode, Swift Package Manager, CocoaPods, Fastlane
+- MVC, VIPER, MVVM-С
+- HTML, CSS, JavaScript
+
 ## Опыт
 
 - **2018 - 2020 (1,5 года): iOS-разработчик, [Lamoda](https://www.lamoda.ru), Москва**
@@ -41,11 +48,3 @@
 - 2016-2017: Industrial hygiene app (NDA) - Приложение для ввода и отображения данных промышленной гигиены
 - 2016: SMS sending app (NDA) - Приложение для заказа смс-рассылок
 - 2016: Women health app (NDA) - Приложение для планирования беременности
-
-## Навыки
-
-- Swift, Objective-C, Python
-- Xcode, Swift Package Manager, CocoaPods, Fastlane
-- MVC, VIPER, MVVM-С
-- HTML, CSS, JavaScript
-
