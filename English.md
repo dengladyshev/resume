@@ -6,6 +6,13 @@
 - [GitHub](https://github.com/dengladyshev)
 - [LinkedIn](https://www.linkedin.com/in/dengladyshev)
 
+## Skills
+
+- Swift, Objective-C, Python
+- Xcode, Swift Package Manager, CocoaPods, Fastlane
+- MVC, VIPER, MVVM-С
+- HTML, CSS, JavaScript
+
 ## Experience
 
 - **2018 - 2020 (1,5 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
@@ -36,11 +43,3 @@
 - 2016-2017: Industrial hygiene app (NDA)
 - 2016: SMS sending app (NDA)
 - 2016: Women health app (NDA)
-
-## Skills
-
-- Swift, Objective-C, Python
-- Xcode, Swift Package Manager, CocoaPods, Fastlane
-- MVC, VIPER, MVVM-С
-- HTML, CSS, JavaScript
-
