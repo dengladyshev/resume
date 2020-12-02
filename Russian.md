@@ -24,6 +24,7 @@
 	- Внедрение кодстайла и [SwiftLint](https://github.com/realm/SwiftLint)
 	- Внедрение DI на [Needle](https://github.com/uber/needle)
 	- Разбиение проекта на модули с помощью [Swift Package Manager](https://swift.org/package-manager/)
+	- Внедрение UI тестов на XCUITest
 	- Организация регулярных встреч для обсуждения и планирования технических улучшений в проекте
 
 - **2015 - 2018 (3 года): iOS-разработчик, [Центр Высоких Технологий](https://htc-cs.ru), Ижевск**
