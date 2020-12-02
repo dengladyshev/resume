@@ -15,15 +15,16 @@
 
 ## Experience
 
-- **2018 - 2020 (1,5 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
+- **2018 - 2020 (2 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
 
+	- Developing of new features and support old code base
+	- Code reviews
+	- Job interviews
 	- Code style guide and [SwiftLint](https://github.com/realm/SwiftLint) integration
 	- DI by [Needle](https://github.com/uber/needle) integration
 	- Modularisation based on [Swift Package Manager](https://swift.org/package-manager/)
+	- UI tests with using XCUITest
 	- Organization of regular meetings to discuss and plan technical improvements in the project
-	- Creation of new features and support old code base
-	- Code reviews
-	- Job interviews
 
 - **2015 - 2018 (3 years): iOS developer, [High Technologies Center](https://htc-cs.ru), Izhevsk**
 
