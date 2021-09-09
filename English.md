@@ -15,7 +15,13 @@
 
 ## Experience
 
-- **2018 - 2020 (2 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
+- **2021 - this time: iOS engineer, [Avito](https://www.avito.ru), Moscow**
+
+	- Developing of new features and support old code base
+	- Code reviews
+	- Job interviews
+
+- **2018 - 2021 (2 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
 
 	- Developing of new features and support old code base
 	- Code reviews
