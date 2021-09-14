@@ -43,6 +43,7 @@
 
 ## Projects
 
+- 2021: [Avito](https://apps.apple.com/ru/app/авито-объявления/id417281773) - Classified app
 - 2018-2020: [Lamoda](https://apps.apple.com/ru/app/lamoda-одежда-и-обувь-онлайн/id777645417) - Online shop app
 - 2017: [CTC](https://itunes.apple.com/ru/app/стс-телеканал-сериалы-онлайн/id784379020) -  TV channel app
 - 2017: [YABT.Talkrooms](https://itunes.apple.com/ru/app/yabt-talkrooms/id1233673360) - Meeting room ordering app
