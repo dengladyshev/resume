@@ -8,14 +8,20 @@
 
 ## Навыки
 
-- Swift, Objective-C, Python
+- Swift, Objective-C
 - Xcode, Swift Package Manager, CocoaPods, Fastlane
 - MVC, VIPER, MVVM-С
 - HTML, CSS, JavaScript
 
 ## Опыт
 
-- **2021 - настоящее время: iOS инженер, [Avito](https://www.avito.ru), Москва**
+- **2021 - настоящее время: Старший iOS-разработчик, [Yandex](https://www.bank.yandex.ru), Москва**
+
+	- Разработка приложения Яндекс Банка с нуля
+	- Проведение код-ревью
+
+- **2021 - 2021 (1 год): iOS инженер, [Avito](https://www.avito.ru), Москва**
+
 	- Разработка новых фич и поддержка проекта
 	- Проведение код-ревью
 	- Проведение собеседований
@@ -46,6 +52,7 @@
 
 ## Проекты
 
+- 2022: [Yandex Plus Card](https://apps.apple.com/ru/app/yandex-plus-card/id1634422317?l=en) - Первое финтех-приложение Яндекс Банка
 - 2021: [Avito](https://apps.apple.com/ru/app/авито-объявления/id417281773) - Приложение классифайд Avito
 - 2018-2021: [Lamoda](https://apps.apple.com/ru/app/lamoda-одежда-и-обувь-онлайн/id777645417) - Приложение онлайн-магазина Lamoda
 - 2018: Director app (NDA) - Приложение для отображения повестки собраний, отчетов и документов для совета директоров
