@@ -8,14 +8,19 @@
 
 ## Skills
 
-- Swift, Objective-C, Python
+- Swift, Objective-C
 - Xcode, Swift Package Manager, CocoaPods, Fastlane
 - MVC, VIPER, MVVM-С
 - HTML, CSS, JavaScript
 
 ## Experience
 
-- **2021 - this time: iOS engineer, [Avito](https://www.avito.ru), Moscow**
+- **2021 - this time: Senior iOS developer, [Yandex](https://www.bank.yandex.ru), Moscow**
+
+	- Developing of new Yandex Bank app
+	- Code reviews
+
+- **2021 - 2021 (1 year): iOS engineer, [Avito](https://www.avito.ru), Moscow**
 
 	- Developing of new features and support old code base
 	- Code reviews
@@ -43,6 +48,7 @@
 
 ## Projects
 
+- 2022: [Yandex Plus Card](https://apps.apple.com/ru/app/yandex-plus-card/id1634422317?l=en) - First fintech app of Yandex Bank
 - 2021: [Avito](https://apps.apple.com/ru/app/авито-объявления/id417281773) - Classified app
 - 2018-2020: [Lamoda](https://apps.apple.com/ru/app/lamoda-одежда-и-обувь-онлайн/id777645417) - Online shop app
 - 2017: [CTC](https://itunes.apple.com/ru/app/стс-телеканал-сериалы-онлайн/id784379020) -  TV channel app
