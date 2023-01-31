@@ -15,7 +15,7 @@
 
 ## Experience
 
-- **2021 - this time: Senior iOS developer, [Yandex](https://www.bank.yandex.ru), Moscow**
+- **2021 - this time: Senior iOS developer, [Yandex](https://bank.yandex.ru), Moscow**
 
 	- Developing of new Yandex Bank app
 	- Code reviews
