@@ -11,7 +11,7 @@
 - Swift, Objective-C
 - Xcode, Swift Package Manager, CocoaPods, Fastlane
 - MVC, VIPER, MVVM-С
-- HTML, CSS, JavaScript
+- HTML, CSS
 
 ## Experience
 
