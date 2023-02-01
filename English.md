@@ -16,23 +16,25 @@
 
 - **2021 - this time: Senior iOS developer, [Yandex](https://bank.yandex.ru), Moscow**
 
-	- Developing of new Yandex Bank app
+	- Development of new Yandex Bank app
 	- Creation "enter by pin code" screen and logic
 	- Push notifications integration
-	- Deeplink handling developing
+	- Deeplink handling development
 	- Dark theme support integration
 	- DI by [Needle](https://github.com/uber/needle) integration
 	- Code reviews
+	- Organization of regular iOS tech meetings
 
 - **2021 - 2021 (1 year): iOS engineer, [Avito](https://www.avito.ru), Moscow**
 
-	- Developing of new features and support old code base
+	- Development of new features and maintaining of the old code base
 	- Code reviews
 	- Job interviews
+	- Support for regular iOS tech meetings
 
 - **2018 - 2021 (2 years): iOS developer, [Lamoda](https://www.lamoda.ru), Moscow**
 
-	- Developing of new features and support old code base
+	- Development of new features and maintaining of the old code base
 	- Code reviews
 	- Job interviews
 	- Code style guide and [SwiftLint](https://github.com/realm/SwiftLint) integration
@@ -43,6 +45,7 @@
 
 - **2015 - 2018 (3 years): iOS developer, [High Technologies Center](https://htc-cs.ru), Izhevsk**
 
+	- Development of new various projects
 	- Design of project architecture, code reviews
 	- Organization and participation of internal tech meetups
 	- CI/CD integration
