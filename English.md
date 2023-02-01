@@ -1,6 +1,6 @@
 # Denis Gladyshev
 
-## iOS developer
+## iOS developer with over 7 years of experience
 
 - dengladyshev@gmail.com
 - [GitHub](https://github.com/dengladyshev)
