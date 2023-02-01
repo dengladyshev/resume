@@ -10,14 +10,18 @@
 
 - Swift, Objective-C
 - Xcode, Swift Package Manager, CocoaPods, Fastlane
-- MVC, VIPER, MVVM-С
-- HTML, CSS
+- MVC, VIPER, MVVM-C
 
 ## Experience
 
 - **2021 - this time: Senior iOS developer, [Yandex](https://bank.yandex.ru), Moscow**
 
 	- Developing of new Yandex Bank app
+	- Creation "enter by pin code" screen and logic
+	- Push notifications integration
+	- Deeplink handling developing
+	- Dark theme support integration
+	- DI by [Needle](https://github.com/uber/needle) integration
 	- Code reviews
 
 - **2021 - 2021 (1 year): iOS engineer, [Avito](https://www.avito.ru), Moscow**
