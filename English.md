@@ -39,7 +39,7 @@
 	- Job interviews
 	- Code style guide and [SwiftLint](https://github.com/realm/SwiftLint) integration
 	- DI by [Needle](https://github.com/uber/needle) integration
-	- Modularisation based on [Swift Package Manager](https://swift.org/package-manager/)
+	- Modularization based on [Swift Package Manager](https://swift.org/package-manager/)
 	- UI tests with using XCUITest
 	- Organization of regular meetings to discuss and plan technical improvements in the project
 
